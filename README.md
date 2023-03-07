@@ -1,6 +1,8 @@
 # Autonomous_Driving_Navigation_Map
 Application of computer vision for autonomous driving using YOLO_V3 and OpenCV.
 
+## weight file link: https://pjreddie.com/darknet/yolo/
+
 ## video file is renamed...
 
 Using Yolo V3 and Open CV, a live navigation map is created from dashcam feed as input.
